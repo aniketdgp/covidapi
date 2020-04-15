@@ -25,7 +25,7 @@ state: "AndamanNicobar",<br>
 confirmedcases: "11",<br>
 recovered: "10",<br>
 death: "0"<br>
-}<br>
-]<br> 
-}<br>
+    }<br>
+  ]<br> 
+ }<br>
 }
