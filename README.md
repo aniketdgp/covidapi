@@ -1,4 +1,4 @@
-# covidapi(Depricated)
+# covidapi(Deprecated)
 
 Sample JSON Data
 
